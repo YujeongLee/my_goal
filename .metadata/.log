@@ -1,0 +1,98 @@
+!SESSION 2017-08-27 17:05:54.599 -----------------------------------------------
+eclipse.buildId=3.8.4.201703310825-RELEASE-e46
+java.version=1.8.0_144
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.springsource.sts.ide -product org.springsource.sts.ide -product org.springsource.sts.ide -product org.springsource.sts.ide -product org.springsource.sts.ide
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springsource.sts.ide -product org.springsource.sts.ide -product org.springsource.sts.ide -product org.springsource.sts.ide -data C:\mygoal -product org.springsource.sts.ide
+
+!ENTRY org.eclipse.ui 2 2 2017-08-27 17:06:01.430
+!MESSAGE org.eclipse.jdt.junit.ResultView: Deprecated relationship "fast" should be converted to "stack".
+
+!ENTRY org.eclipse.ui 2 2 2017-08-27 17:06:01.434
+!MESSAGE org.springframework.ide.eclipse.aop.ui.navigator.aopReferenceModelNavigator: Deprecated relationship "fast" should be converted to "stack".
+
+!ENTRY org.eclipse.ui 2 2 2017-08-27 17:06:01.434
+!MESSAGE org.eclipse.contribution.xref.ui.views.XReferenceView: Deprecated relationship "fast" should be converted to "stack".
+
+!ENTRY org.eclipse.jface.text 2 0 2017-08-27 17:06:01.998
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-08-27 17:06:01.999
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-08-27 17:06:04.208
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\kita'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.wst.server.discovery 1 0 2017-08-27 17:06:16.334
+!MESSAGE already installed: org.eclipse.jst.server.generic.jonas4
+
+!ENTRY org.tigris.subversion.clientadapter.javahl 1 0 2017-08-27 17:06:39.602
+!MESSAGE Failed to load JavaHL Library.
+These are the errors that were encountered:
+C:\Program Files (x86)\Subversion\bin\libapr-1.dll: Can't load IA 32-bit .dll on a AMD 64-bit platform
+C:\Program Files (x86)\Subversion\bin\libapriconv-1.dll: Can't load IA 32-bit .dll on a AMD 64-bit platform
+C:\Program Files (x86)\Intel\iCLS Client\libeay32.dll: Can't load IA 32-bit .dll on a AMD 64-bit platform
+C:\Program Files (x86)\Intel\iCLS Client\ssleay32.dll: Can't load IA 32-bit .dll on a AMD 64-bit platform
+C:\Program Files (x86)\Subversion\bin\libaprutil-1.dll: Can't load IA 32-bit .dll on a AMD 64-bit platform
+C:\Program Files (x86)\Subversion\bin\libsasl.dll: Can't load IA 32-bit .dll on a AMD 64-bit platform
+C:\Program Files (x86)\Subversion\bin\libsvn_subr-1.dll: Can't load IA 32-bit .dll on a AMD 64-bit platform
+C:\Program Files (x86)\Subversion\bin\libsvn_delta-1.dll: Can't load IA 32-bit .dll on a AMD 64-bit platform
+C:\Program Files (x86)\Subversion\bin\libsvn_diff-1.dll: Can't load IA 32-bit .dll on a AMD 64-bit platform
+C:\Program Files (x86)\Subversion\bin\libsvn_wc-1.dll: Can't load IA 32-bit .dll on a AMD 64-bit platform
+C:\Program Files (x86)\Subversion\bin\libsvn_fs-1.dll: Can't load IA 32-bit .dll on a AMD 64-bit platform
+C:\Program Files (x86)\Subversion\bin\libsvn_repos-1.dll: Can't load IA 32-bit .dll on a AMD 64-bit platform
+C:\Program Files (x86)\Subversion\bin\libsvn_ra-1.dll: Can't load IA 32-bit .dll on a AMD 64-bit platform
+C:\Program Files (x86)\Subversion\bin\libsvn_client-1.dll: Can't load IA 32-bit .dll on a AMD 64-bit platform
+no libsvnjavahl-1 in java.library.path
+no svnjavahl-1 in java.library.path
+no svnjavahl in java.library.path
+java.library.path = C:\Users\kita\Desktop\33기 3차 역량평가용 64비트 설치파일\spring-tool-suite-3.8.4.RELEASE-e4.6.3-win32-x86_64\sts-bundle\sts-3.8.4.RELEASE;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:/Program Files/Java/jdk1.8.0_144/bin/../jre/bin/server;C:/Program Files/Java/jdk1.8.0_144/bin/../jre/bin;C:/Program Files/Java/jdk1.8.0_144/bin/../jre/lib/amd64;C:\oraclexe\app\oracle\product\11.2.0\server\bin;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Java\jdk1.8.0_144\bin;C:\Program Files\Git\cmd;C:\Program Files (x86)\Brackets\command;C:\Program Files (x86)\Subversion\bin;C:\Program Files\Bandizip\;C:\Users\kita\Desktop\33기 3차 역량평가용 64비트 설치파일\spring-tool-suite-3.8.4.RELEASE-e4.6.3-win32-x86_64\sts-bundle\sts-3.8.4.RELEASE;;.
+!SESSION 2017-08-27 17:08:40.524 -----------------------------------------------
+eclipse.buildId=3.8.4.201703310825-RELEASE-e46
+java.version=1.8.0_144
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.springsource.sts.ide -product org.springsource.sts.ide -product org.springsource.sts.ide -product org.springsource.sts.ide -product org.springsource.sts.ide -product org.springsource.sts.ide
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springsource.sts.ide -product org.springsource.sts.ide -product org.springsource.sts.ide -product org.springsource.sts.ide -product org.springsource.sts.ide -data file:/C:/mygoal/ -product org.springsource.sts.ide
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-08-27 17:08:55.098
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\kita'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2017-08-27 17:08:56.099
+!MESSAGE Removing part descriptor with the 'com.collabnet.subversion.merge.views.MergeResultsView' id and the 'Merge Results' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2017-08-27 17:08:56.102
+!MESSAGE Removing part descriptor with the 'org.tigris.subversion.subclipse.ui.repository.RepositoriesView' id and the 'SVN Repositories' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2017-08-27 17:08:56.103
+!MESSAGE Removing part descriptor with the 'org.tigris.subversion.subclipse.ui.svnproperties.SvnPropertiesView' id and the 'SVN Properties' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2017-08-27 17:08:56.104
+!MESSAGE Removing part descriptor with the 'org.tigris.subversion.subclipse.ui.svnproperties.SvnRevPropertiesView' id and the 'SVN Rev Properties' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2017-08-27 17:08:56.105
+!MESSAGE Removing part descriptor with the 'org.tigris.subversion.subclipse.ui.annotations.AnnotateView' id and the 'SVN Annotate' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2017-08-27 17:08:56.105
+!MESSAGE Removing part descriptor with the 'org.tigris.subversion.subclipse.ui.conflicts.TreeConflictsView' id and the 'SVN Tree Conflicts' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-08-27 17:10:04.188
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-08-27 17:10:04.219
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-08-27 17:10:17.822
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-08-27 17:10:17.854
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
